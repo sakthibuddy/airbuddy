@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/airbuddy/static/css/main.2cce8147.chunk.css",
+    "main.js": "/airbuddy/static/js/main.e7fa71a0.chunk.js",
+    "main.js.map": "/airbuddy/static/js/main.e7fa71a0.chunk.js.map",
+    "runtime~main.js": "/airbuddy/static/js/runtime~main.4312221b.js",
+    "runtime~main.js.map": "/airbuddy/static/js/runtime~main.4312221b.js.map",
+    "static/js/2.b41502e9.chunk.js": "/airbuddy/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/airbuddy/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/airbuddy/index.html",
+    "precache-manifest.ebae0fe892857a41ffaf8df96ba21111.js": "/airbuddy/precache-manifest.ebae0fe892857a41ffaf8df96ba21111.js",
+    "service-worker.js": "/airbuddy/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/airbuddy/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/airbuddy/static/media/logo.5d5d9eef.svg"
+  }
+}
