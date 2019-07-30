@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/airbuddy/static/css/main.2cce8147.chunk.css",
-    "main.js": "/airbuddy/static/js/main.29600659.chunk.js",
-    "main.js.map": "/airbuddy/static/js/main.29600659.chunk.js.map",
+    "main.css": "/airbuddy/static/css/main.9a8bbb33.chunk.css",
+    "main.js": "/airbuddy/static/js/main.7b1f49ff.chunk.js",
+    "main.js.map": "/airbuddy/static/js/main.7b1f49ff.chunk.js.map",
     "runtime~main.js": "/airbuddy/static/js/runtime~main.4312221b.js",
     "runtime~main.js.map": "/airbuddy/static/js/runtime~main.4312221b.js.map",
-    "static/js/2.b41502e9.chunk.js": "/airbuddy/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/airbuddy/static/js/2.b41502e9.chunk.js.map",
+    "static/css/2.266e55a5.chunk.css": "/airbuddy/static/css/2.266e55a5.chunk.css",
+    "static/js/2.6745d264.chunk.js": "/airbuddy/static/js/2.6745d264.chunk.js",
+    "static/js/2.6745d264.chunk.js.map": "/airbuddy/static/js/2.6745d264.chunk.js.map",
     "index.html": "/airbuddy/index.html",
-    "precache-manifest.dcd79047da1aa1de8cd376dc44b37c28.js": "/airbuddy/precache-manifest.dcd79047da1aa1de8cd376dc44b37c28.js",
+    "precache-manifest.d28841b0da3a676006b279dbbeae2894.js": "/airbuddy/precache-manifest.d28841b0da3a676006b279dbbeae2894.js",
     "service-worker.js": "/airbuddy/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/airbuddy/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/airbuddy/static/media/logo.5d5d9eef.svg"
+    "static/css/2.266e55a5.chunk.css.map": "/airbuddy/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.9a8bbb33.chunk.css.map": "/airbuddy/static/css/main.9a8bbb33.chunk.css.map",
+    "static/media/can-accompany.jpg": "/airbuddy/static/media/can-accompany.67e9475f.jpg",
+    "static/media/logo.svg": "/airbuddy/static/media/logo.5d5d9eef.svg",
+    "static/media/travel-buddies.jpg": "/airbuddy/static/media/travel-buddies.7c8d7bc1.jpg",
+    "static/media/travel-parents.jpg": "/airbuddy/static/media/travel-parents.78fbad4b.jpg",
+    "static/media/travelling-alone.jpg": "/airbuddy/static/media/travelling-alone.a5bbeeef.jpg",
+    "static/media/card-style.css": "/airbuddy/static/media/white-plane-background.e094889c.jpg"
   }
 }

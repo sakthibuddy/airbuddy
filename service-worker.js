@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/airbuddy/precache-manifest.dcd79047da1aa1de8cd376dc44b37c28.js"
+  "/airbuddy/precache-manifest.d28841b0da3a676006b279dbbeae2894.js"
 );
 
 self.addEventListener('message', (event) => {
