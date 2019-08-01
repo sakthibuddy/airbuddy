@@ -1,0 +1,10 @@
+.footer-links-alignment {
+  float: right;
+  position: relative;
+  margin: 10px 15px 15px 10px;
+  color: black;
+}
+
+text {
+  margin: 10px 15px 15px 10px;
+}

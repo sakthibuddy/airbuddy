@@ -4,7 +4,7 @@ import "./card-style.css";
 const Card = props => {
   return (
     <div className="card text-center shadow">
-      <a href="#">
+      <a href="#" class="design-less-a">
         <div className="overflow">
           <img
             src={props.imgsrc}
@@ -13,7 +13,7 @@ const Card = props => {
           />
         </div>
         <div className="card-body text-dark">
-          <h4 className="card-title">{props.title}</h4>
+          <b className="card-title">{props.title}</b>
           <p className="card-text text-secondary">{props.desc}</p>
         </div>
       </a>
