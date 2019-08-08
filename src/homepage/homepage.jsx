@@ -15,49 +15,44 @@ class Homepage extends Component {
         <Header />
         <div className="container-fluid d-flex justify-content-center">
           <div className="row justify-content-center">
-            <div className="col-md-4">
-              <Card
-                imgsrc={ImageTravelAlone}
-                title="Travelling alone?"
-                desc="Do you need a company for your travel?"
-              />
-            </div>
-            <div className="col-md-4">
-              <Card
-                imgsrc={ImageTravelParents}
-                title="Parents travelling"
-                desc="Are your parents seeking for a travel?"
-              />
-            </div>
-          </div>
-        </div>
-        <div className="container-fluid d-flex">
-          <div className="row justify-content-center">
-            <div className="col-md-4">
-              <Card
-                imgsrc={canAccompany}
-                title="I can accompany"
-                desc="Like to accompany others?"
-              />
-            </div>
-            <div className="col-md-4">
-              <Card
-                imgsrc={travelBuddies}
-                title="Search your accompany"
-                desc="Want to search & select your company?"
-              />
-            </div>
+            <Card
+              windowSize="col-md-2"
+              imgsrc={ImageTravelParents}
+              title="Parents travelling"
+              desc="Are your parents seeking for a travel?"
+            />
+            <Card
+              windowSize="col-md-2"
+              imgsrc={ImageTravelAlone}
+              title="Travelling alone?"
+              desc="Do you need a company for your travel?"
+            />
           </div>
         </div>
         <div className="container-fluid d-flex justify-content-center">
           <div className="row justify-content-center">
-            <div className="col-md-12">
-              <Card
-                imgsrc={thinking}
-                title="How it works?"
-                desc="Interested to know how it works here?"
-              />
-            </div>
+            <Card
+              windowSize="col-md-2"
+              imgsrc={canAccompany}
+              title="I can accompany"
+              desc="Like to accompany others?"
+            />
+            <Card
+              windowSize="col-md-2"
+              imgsrc={travelBuddies}
+              title="Search your accompany"
+              desc="Want to search & select your company?"
+            />
+          </div>
+        </div>
+        <div className="container-fluid d-flex justify-content-center">
+          <div className="row justify-content-center">
+            <Card
+              windowSize="col-md-9"
+              imgsrc={thinking}
+              title="How it works?"
+              desc="Interested to know how it works here?"
+            />
           </div>
         </div>
         <Footer />

@@ -3,8 +3,8 @@ import "./footer-style.css";
 
 const Footer = props => {
   return (
-    <div>
-      <text>Copyright © XXXX</text>
+    <div class="footer">
+      Copyright © XXXX
       <a href="#" className="footer-links-alignment">
         About us
       </a>

@@ -2,9 +2,21 @@
   float: right;
   position: relative;
   margin: 10px 15px 15px 10px;
-  color: black;
+  color: whitesmoke;
+}
+
+.footer-links-alignment:hover {
+  color: whitesmoke;
 }
 
 text {
   margin: 10px 15px 15px 10px;
+}
+
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
 }
