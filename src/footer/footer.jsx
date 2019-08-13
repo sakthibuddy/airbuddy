@@ -9,10 +9,10 @@ const Footer = props => {
         About us
       </a>
       <a href="#" className="footer-links-alignment">
-        Terms & Conditions
+        Contact Us
       </a>
       <a href="#" className="footer-links-alignment">
-        Privacy Policy
+        How it works?
       </a>
     </div>
   );

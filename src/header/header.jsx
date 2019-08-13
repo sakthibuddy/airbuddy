@@ -4,7 +4,7 @@ import "./header-style.css";
 const Header = props => {
   return (
     <header>
-      <a href="#" className="login-alignment">
+      <a href="#" className="loginButton">
         Login / Register
       </a>
     </header>
