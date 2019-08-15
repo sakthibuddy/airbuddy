@@ -5,21 +5,22 @@ header {
   top: 0;
 }
 
-.loginButton {
+.login,
+.register {
   float: right;
   position: relative;
   margin: 10px 15px 15px 10px;
-  color: black;
+  color: white;
   font-family: sans-serif;
-  background-color: #00beff;
-  padding: 0.2% 2%;
+  padding: 0% 1% 1% 1%;
   text-align: center;
   text-decoration: none;
-  border-radius: 10px;
+  border-bottom: solid transparent 2px;
 }
 
-.loginButton:hover {
-  color: black;
+.login:hover,
+.register:hover {
+  color: white;
   text-decoration: none;
-  background-color: #00ceff;
+  border-bottom: solid white 2px;
 }

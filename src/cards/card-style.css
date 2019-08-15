@@ -13,13 +13,13 @@ body {
   transition: filter 200ms linear, transform 200ms linear;
   padding-right: 0;
   padding-left: 0;
-  border: 0px;
+  border-style: none;
 }
 
 .card:hover {
   box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253) !important;
   transform: scale(1.05) translateZ(0);
-  border: 0px;
+  border-style: none;
 }
 
 .card-body {
@@ -27,15 +27,17 @@ body {
 }
 
 .card-title {
-  color: black;
-  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
-    "Helvetica Neue", sans-serif;
+  color: white;
+  font-family: Marker Felt, fantasy;
   font-size: 150%;
+  font-weight: bolder;
+  padding-top: 40%;
 }
 
 .card-text {
   color: black;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    Helvetica Neue, sans-serif !important;
   font-size: 100%;
 }
 
@@ -47,7 +49,7 @@ body {
 }
 
 img {
-  opacity: 0.7;
+  filter: brightness(50%);
 }
 
 .row {

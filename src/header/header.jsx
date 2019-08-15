@@ -4,8 +4,11 @@ import "./header-style.css";
 const Header = props => {
   return (
     <header>
-      <a href="#" className="loginButton">
-        Login / Register
+      <div href="#" className="register">
+        Register
+      </div>
+      <a href="#" className="login">
+        Login
       </a>
     </header>
   );
