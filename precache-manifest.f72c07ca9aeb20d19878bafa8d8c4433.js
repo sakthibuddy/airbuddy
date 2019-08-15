@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f376cc43fcf0400cb0b49459833d617d",
+    "revision": "ac9eb46b8212b0b1c5ffeea356f55eb6",
     "url": "/airbuddy/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/airbuddy/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "60003cbc1ba6eb4db2a9",
-    "url": "/airbuddy/static/css/main.f49c1ad2.chunk.css"
+    "revision": "4c3a9f02ed8adce923d2",
+    "url": "/airbuddy/static/css/main.dceb5c88.chunk.css"
   },
   {
     "revision": "3de57ce9ab603408c5f9",
     "url": "/airbuddy/static/js/2.6745d264.chunk.js"
   },
   {
-    "revision": "60003cbc1ba6eb4db2a9",
-    "url": "/airbuddy/static/js/main.60a589ae.chunk.js"
+    "revision": "4c3a9f02ed8adce923d2",
+    "url": "/airbuddy/static/js/main.78d82707.chunk.js"
   },
   {
     "revision": "3832c658a1e374997c5e",
