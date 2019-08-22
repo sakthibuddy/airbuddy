@@ -4,9 +4,9 @@ import "./header-style.css";
 const Header = props => {
   return (
     <header>
-      <div href="#" className="register">
+      <a href="#" className="register">
         Register
-      </div>
+      </a>
       <a href="#" className="login">
         Login
       </a>

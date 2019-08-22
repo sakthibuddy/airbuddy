@@ -5,8 +5,8 @@ import ImageTravelAlone from "../assets/travelling-alone.jpg";
 import ImageTravelParents from "../assets/travel-parents.jpg";
 import travelBuddies from "../assets/travel-buddies.jpg";
 import canAccompany from "../assets/can-accompany.jpg";
-import thinking from "../assets/thinking.jpg";
 import Footer from "../footer/footer";
+import "./homepage.css";
 
 class Homepage extends Component {
   render() {
@@ -31,13 +31,13 @@ class Homepage extends Component {
           <div className="row justify-content-center">
             <Card
               windowSize="col-md-3"
-              imgsrc={canAccompany}
-              title="Like to give company?"
+              imgsrc={travelBuddies}
+              title="Want to search & select your company?"
             />
             <Card
               windowSize="col-md-3"
-              imgsrc={travelBuddies}
-              title="Want to search & select your company?"
+              imgsrc={canAccompany}
+              title="Like to give company?"
             />
           </div>
         </div>

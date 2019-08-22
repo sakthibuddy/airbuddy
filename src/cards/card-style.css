@@ -1,12 +1,3 @@
-body {
-  background: radial-gradient(#e5e5e5, #fff, #e5e5e5);
-  background-image: url("../assets/plane-background.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  padding-right: 0;
-  padding-left: 0;
-}
-
 .card {
   transform-origin: center;
   transform: scale(1) translateZ(0);
@@ -29,9 +20,10 @@ body {
 .card-title {
   color: white;
   font-family: Marker Felt, fantasy;
-  font-size: 150%;
+  font-size: 200%;
   font-weight: bolder;
   padding-top: 40%;
+  text-shadow: 2px 2px #000000;
 }
 
 .card-text {
@@ -49,7 +41,7 @@ body {
 }
 
 img {
-  filter: brightness(50%);
+  filter: brightness(80%);
 }
 
 .row {
