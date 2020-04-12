@@ -1,23 +1,16 @@
 {
   "files": {
-    "main.css": "/airbuddy/static/css/main.642c82b0.chunk.css",
-    "main.js": "/airbuddy/static/js/main.73152def.chunk.js",
-    "main.js.map": "/airbuddy/static/js/main.73152def.chunk.js.map",
+    "main.css": "/airbuddy/static/css/main.620208d8.chunk.css",
+    "main.js": "/airbuddy/static/js/main.dd068459.chunk.js",
+    "main.js.map": "/airbuddy/static/js/main.dd068459.chunk.js.map",
     "runtime~main.js": "/airbuddy/static/js/runtime~main.4312221b.js",
     "runtime~main.js.map": "/airbuddy/static/js/runtime~main.4312221b.js.map",
-    "static/css/2.266e55a5.chunk.css": "/airbuddy/static/css/2.266e55a5.chunk.css",
-    "static/js/2.6745d264.chunk.js": "/airbuddy/static/js/2.6745d264.chunk.js",
-    "static/js/2.6745d264.chunk.js.map": "/airbuddy/static/js/2.6745d264.chunk.js.map",
+    "static/js/2.06dc4e1d.chunk.js": "/airbuddy/static/js/2.06dc4e1d.chunk.js",
+    "static/js/2.06dc4e1d.chunk.js.map": "/airbuddy/static/js/2.06dc4e1d.chunk.js.map",
     "index.html": "/airbuddy/index.html",
-    "precache-manifest.e74818b89dd0548b199e40c2deedbe03.js": "/airbuddy/precache-manifest.e74818b89dd0548b199e40c2deedbe03.js",
+    "precache-manifest.a2187d564488e4a33cf4305040f233e0.js": "/airbuddy/precache-manifest.a2187d564488e4a33cf4305040f233e0.js",
     "service-worker.js": "/airbuddy/service-worker.js",
-    "static/css/2.266e55a5.chunk.css.map": "/airbuddy/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.642c82b0.chunk.css.map": "/airbuddy/static/css/main.642c82b0.chunk.css.map",
-    "static/media/can-accompany.jpg": "/airbuddy/static/media/can-accompany.2c068fa9.jpg",
-    "static/media/homepage.css": "/airbuddy/static/media/travellers.94c86694.jpg",
-    "static/media/logo.svg": "/airbuddy/static/media/logo.5d5d9eef.svg",
-    "static/media/travel-buddies.jpg": "/airbuddy/static/media/travel-buddies.58dd731b.jpg",
-    "static/media/travel-parents.jpg": "/airbuddy/static/media/travel-parents.06d06801.jpg",
-    "static/media/travelling-alone.jpg": "/airbuddy/static/media/travelling-alone.0af99714.jpg"
+    "static/css/main.620208d8.chunk.css.map": "/airbuddy/static/css/main.620208d8.chunk.css.map",
+    "static/media/logo.d7a15cbc.svg": "/airbuddy/static/media/logo.d7a15cbc.svg"
   }
 }
